@@ -1,0 +1,19 @@
+.card{
+    /* background-color: #B719AC; */
+    background-image: url(../../img/card.jpg);
+    border: 5px solid black;
+    border-radius: 5%;
+    color: white;
+    height: fit-content;
+    padding: 1%;
+    width: fit-content;
+}
+.img{
+    border-radius: 10%;
+    border: 5px solid black;
+}
+.closeButton{
+    background-color: #4CCD78;
+    border: 1px solid black;
+    border-radius: 20%;
+}
